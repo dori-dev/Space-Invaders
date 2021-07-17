@@ -1,2 +1,33 @@
 # Space Invaders
-Space Invaders game, with lots of features and clean code with pygame library and python programming language.
+
+
+Advanced Space Invaders Game, With lots of features and clean code.
+
+
+## Languages
+
+- Python 3
+- PyGame 2
+
+
+
+## Game Creators
+
+- Graphic Designer - Salar Dori
+- Game developer - Salar Dori
+
+# Run the Game
+
+## Installation requirements
+```
+pip install pygame
+```
+
+## How to run
+
+```
+python main.py
+```
+
+
+My github acount: [Click here](https://github.com/developer-py/)
