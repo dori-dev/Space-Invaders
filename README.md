@@ -14,7 +14,7 @@ Advanced Space Invaders Game, With lots of features and clean code.
 ## Game Creators
 
 - Graphic Designer - Salar Dori
-- Game developer - Salar Dori
+- Game Developer - Salar Dori
 
 # Run the Game
 
@@ -30,4 +30,6 @@ python main.py
 ```
 
 
+Download source code: [Click here](https://github.com/developer-py/Space-Invaders/archive/refs/heads/master.zip)
+Download .exe file for windows: [Click here](https://google.com/)
 My github acount: [Click here](https://github.com/developer-py/)
