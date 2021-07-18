@@ -244,9 +244,10 @@ while MENU:
                         if e.type == pygame.QUIT:
                             LEARN = False
                             MENU = False
-                        if e.type == pygame.MOUSEBUTTONDOWN:
-                            if back.collidepoint(pygame.mouse.get_pos()):
-                                LEARN = False
+                        if COUNT > 1000:
+                            if e.type == pygame.MOUSEBUTTONDOWN:
+                                if back.collidepoint(pygame.mouse.get_pos()):
+                                    LEARN = False
                     screen2.blit(bg2, (0, 0))
                     COUNT += 1
                     if COUNT > 1000:
