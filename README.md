@@ -34,6 +34,4 @@ python main.py
 
 Download source code: [Click here](https://github.com/developer-py/Space-Invaders/archive/refs/heads/master.zip)
 
-Download .exe file for windows: [Click here](https://google.com/)
-
 My github acount: [Click here](https://github.com/developer-py/)
