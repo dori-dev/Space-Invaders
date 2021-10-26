@@ -32,6 +32,6 @@ python main.py
 ## Links
 
 
-Download source code: [Click here](https://github.com/developer-py/Space-Invaders/archive/refs/heads/master.zip)
+Download source code: [Click here](https://github.com/dori-dev/Space-Invaders/archive/refs/heads/master.zip)
 
 My github acount: [Click here](https://github.com/dori-dev/)
