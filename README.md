@@ -13,8 +13,8 @@ Advanced Space Invaders Game, With lots of features and clean code.
 
 ## Game Creators
 
-- Graphic Designer - Salar Dori
-- Game Developer - Salar Dori
+- Graphic Designer - Mohammad Dori
+- Game Developer - Mohammad Dori
 
 # Run the Game
 
