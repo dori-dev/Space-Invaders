@@ -1,4 +1,4 @@
-"""Advance Game Space Invaders
+"""Advance Game Space Invaders.
 """
 
 # ------------------------------ import ------------------------------
